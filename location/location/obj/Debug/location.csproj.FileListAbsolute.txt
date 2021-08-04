@@ -1,0 +1,10 @@
+G:\2Year\3Networking\ACW\location\location\obj\Debug\location.ClientForm.resources
+G:\2Year\3Networking\ACW\location\location\obj\Debug\location.Properties.Resources.resources
+G:\2Year\3Networking\ACW\location\location\obj\Debug\location.csproj.GenerateResource.cache
+G:\2Year\3Networking\ACW\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+G:\2Year\3Networking\ACW\location\location\bin\Debug\location.exe.config
+G:\2Year\3Networking\ACW\location\location\bin\Debug\location.exe
+G:\2Year\3Networking\ACW\location\location\bin\Debug\location.pdb
+G:\2Year\3Networking\ACW\location\location\obj\Debug\location.csprojAssemblyReference.cache
+G:\2Year\3Networking\ACW\location\location\obj\Debug\location.exe
+G:\2Year\3Networking\ACW\location\location\obj\Debug\location.pdb

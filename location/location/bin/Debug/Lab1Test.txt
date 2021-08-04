@@ -1,0 +1,10 @@
+27/02/2020 11:17:26.99 All tests of location completed: 28 passed, 0 advisory, 0 failed (of 28 total). 
+Lab1Test can be signed off for MARWANE IMZI (580468) at 27/02/2020 11:17:28.79 on BJL-3F-88 
+29/02/2020 22:49:44.02 All tests of G:\Networking\ACW\location\location\bin\Debug\location.exe completed: 28 passed, 0 advisory, 0 failed (of 28 total). 
+06/03/2020 16:32:34.77 All tests of location completed: 28 passed, 0 advisory, 0 failed (of 28 total). 
+Lab1Test can be signed off for  (Marwane) at 06/03/2020 16:32:47.88 on DESKTOP-N34K8UF 
+15/03/2020 19:47:36.95 All tests of location completed: 28 passed, 0 advisory, 0 failed (of 28 total). 
+Lab1Test can be signed off for MARWANE IMZI (580468) at 15/03/2020 19:47:38.04 on RB-203A-12 
+16/03/2020 16:41:53.01 All tests of location completed: 28 passed, 0 advisory, 0 failed (of 28 total). 
+Lab1Test can be signed off for MARWANE IMZI (580468) at 16/03/2020 16:41:54.93 on RB-209A-09 
+17/03/2020 15:31:51.24 All tests of location completed: 26 passed, 2 advisory, 0 failed (of 28 total). 

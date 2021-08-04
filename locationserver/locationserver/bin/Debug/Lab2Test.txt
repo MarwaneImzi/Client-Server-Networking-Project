@@ -1,0 +1,35 @@
+21/02/2020 16:28:31.60 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 2 failed (of 16 total). 
+21/02/2020 16:29:36.80 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 3 failed (of 16 total). 
+21/02/2020 16:30:31.10 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 2 failed (of 16 total). 
+21/02/2020 16:40:02.05 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+25/02/2020 19:13:58.90 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+27/02/2020  9:11:30.81 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 0 advisory, 1 failed (of 16 total). 
+27/02/2020  9:13:55.36 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 0 advisory, 0 failed (of 16 total). 
+Lab2Test can be signed off for MARWANE IMZI (580468) at 27/02/2020  9:13:56.44 on FEN-052-007 
+27/02/2020  9:17:54.46 All tests of whois.net.dcs.hull.ac.uk completed: 8 passed, 0 advisory, 0 failed (of 16 total). 
+Lab2Test can be signed off for MARWANE IMZI (580468) at 27/02/2020  9:17:56.14 on FEN-052-007 
+27/02/2020 11:18:53.14 All tests of whois.net.dcs.hull.ac.uk completed: 16 passed, 0 advisory, 0 failed (of 16 total). 
+Lab2Test can be signed off for MARWANE IMZI (580468) at 27/02/2020 11:18:54.81 on BJL-3F-88 
+27/02/2020 11:42:21.47 All tests of whois.net.dcs.hull.ac.uk completed: 16 passed, 0 advisory, 0 failed (of 16 total). 
+Lab2Test can be signed off for MARWANE IMZI (580468) at 27/02/2020 11:42:23.32 on BJL-3F-88 
+29/02/2020 22:50:40.10 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+29/02/2020 22:56:58.24 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+29/02/2020 22:58:43.17 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+29/02/2020 23:01:38.56 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+29/02/2020 23:03:02.04 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+01/03/2020 22:27:50.05 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 1 advisory, 6 failed (of 16 total). 
+01/03/2020 22:33:23.06 All tests completed: 0 passed, 0 advisory, 2 failed. 
+01/03/2020 22:34:56.57 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 1 advisory, 6 failed (of 16 total). 
+01/03/2020 22:37:14.29 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 1 advisory, 6 failed (of 16 total). 
+01/03/2020 22:38:46.97 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 1 advisory, 6 failed (of 16 total). 
+01/03/2020 22:42:18.59 All tests of whois.net.dcs.hull.ac.uk completed: 8 passed, 0 advisory, 0 failed (of 16 total). 
+Lab2Test can be signed off for MARWANE IMZI (580468) at 01/03/2020 22:42:19.32 on RB-203A-26 
+01/03/2020 22:42:54.85 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 1 advisory, 6 failed (of 16 total). 
+01/03/2020 22:43:49.53 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 1 advisory, 6 failed (of 16 total). 
+01/03/2020 22:57:58.12 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 1 advisory, 6 failed (of 16 total). 
+01/03/2020 23:05:26.60 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 1 advisory, 6 failed (of 16 total). 
+15/03/2020 19:07:17.52 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 1 advisory, 6 failed (of 16 total). 
+15/03/2020 19:10:00.83 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 1 advisory, 6 failed (of 16 total). 
+15/03/2020 19:13:46.07 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+16/03/2020 16:51:33.90 All tests of whois.net.dcs.hull.ac.uk completed: 16 passed, 0 advisory, 0 failed (of 16 total). 
+Lab2Test can be signed off for MARWANE IMZI (580468) at 16/03/2020 16:51:35.82 on RB-209A-09 

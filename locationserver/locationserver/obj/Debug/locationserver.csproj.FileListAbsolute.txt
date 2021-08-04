@@ -1,0 +1,10 @@
+G:\2Year\3Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.csprojAssemblyReference.cache
+G:\2Year\3Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.Properties.Resources.resources
+G:\2Year\3Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.ServerForm.resources
+G:\2Year\3Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.csproj.GenerateResource.cache
+G:\2Year\3Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+G:\2Year\3Networking\ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+G:\2Year\3Networking\ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+G:\2Year\3Networking\ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+G:\2Year\3Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+G:\2Year\3Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.pdb

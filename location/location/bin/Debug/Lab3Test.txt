@@ -1,0 +1,51 @@
+27/02/2020 14:28:57.20 All tests of location completed: 12 passed, 7 advisory, 1 failed (of 111 total). 
+27/02/2020 19:29:55.31 All tests of G:\Networking\ACW\location\location\bin\Debug\location.exe completed: 15 passed, 3 advisory, 2 failed (of 111 total). 
+27/02/2020 20:00:49.75 All tests of G:\Networking\ACW\location\location\bin\Debug\location.exe completed: 16 passed, 2 advisory, 2 failed (of 111 total). 
+29/02/2020 22:32:53.41 All tests of location completed: 2 passed, 2 advisory, 0 failed (of 111 total). 
+29/02/2020 22:44:44.52 All tests of G:\Networking\ACW\location\location\bin\Debug\location.exe completed: 2 passed, 2 advisory, 0 failed (of 111 total). 
+29/02/2020 22:45:54.04 All tests of G:\Networking\ACW\location\location\bin\Debug\location.exe completed: 2 passed, 2 advisory, 0 failed (of 111 total). 
+29/02/2020 22:47:32.61 All tests of G:\Networking\ACW\location\location\bin\Debug\location.exe completed: 2 passed, 2 advisory, 0 failed (of 111 total). 
+29/02/2020 23:20:48.18 All tests of location completed: 2 passed, 2 advisory, 0 failed (of 111 total). 
+29/02/2020 23:22:33.30 All tests of location completed: 2 passed, 2 advisory, 0 failed (of 111 total). 
+29/02/2020 23:29:12.56 All tests of location completed: 17 passed, 2 advisory, 1 failed (of 111 total). 
+29/02/2020 23:40:07.24 All tests of location completed: 17 passed, 2 advisory, 1 failed (of 111 total). 
+29/02/2020 23:51:35.14 All tests of location completed: 17 passed, 2 advisory, 1 failed (of 111 total). 
+29/02/2020 23:57:43.08 All tests of location completed: 17 passed, 2 advisory, 1 failed (of 111 total). 
+29/02/2020 23:59:48.21 All tests of location completed: 18 passed, 1 advisory, 1 failed (of 111 total). 
+01/03/2020  0:07:40.05 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+01/03/2020  0:35:40.49 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+01/03/2020  0:40:50.70 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+01/03/2020 20:21:17.88 All tests of location completed: 69 passed, 40 advisory, 0 failed (of 111 total). 
+01/03/2020 20:51:09.88 All tests of location completed: 20 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for MARWANE IMZI (580468) at 01/03/2020 20:51:10.78 on RB-203A-26 
+03/03/2020 15:38:29.16 All tests of location completed: 69 passed, 40 advisory, 0 failed (of 111 total). 
+05/03/2020  7:00:32.28 All tests of location completed: 69 passed, 40 advisory, 0 failed (of 111 total). 
+05/03/2020  8:14:32.74 All tests of location completed: 69 passed, 40 advisory, 0 failed (of 111 total). 
+05/03/2020 10:39:41.62 All tests of location completed: 79 passed, 30 advisory, 0 failed (of 111 total). 
+05/03/2020 11:00:29.33 All tests of location completed: 79 passed, 30 advisory, 0 failed (of 111 total). 
+05/03/2020 11:23:12.51 All tests of location completed: 4 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for MARWANE IMZI (580468) at 05/03/2020 11:23:13.37 on RB-203A-28 
+05/03/2020 11:24:16.32 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+05/03/2020 11:27:59.96 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+05/03/2020 11:37:01.77 All tests of location completed: 79 passed, 30 advisory, 0 failed (of 111 total). 
+05/03/2020 11:50:07.76 All tests of location completed: 69 passed, 40 advisory, 0 failed (of 111 total). 
+06/03/2020 11:31:21.07 All tests of location completed: 3 passed, 1 advisory, 0 failed (of 111 total). 
+06/03/2020 12:19:01.42 All tests of location completed: 3 passed, 1 advisory, 0 failed (of 111 total). 
+06/03/2020 12:23:27.22 All tests of location completed: 3 passed, 1 advisory, 0 failed (of 111 total). 
+06/03/2020 12:38:08.54 All tests of location completed: 19 passed, 0 advisory, 1 failed (of 111 total). 
+06/03/2020 12:45:53.01 All tests of location completed: 100 passed, 9 advisory, 0 failed (of 111 total). 
+06/03/2020 12:47:04.89 All tests completed: 1 passed, 0 advisory, 1 failed. 
+06/03/2020 12:56:03.13 All tests of location completed: 109 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for MARWANE IMZI (580468) at 06/03/2020 12:56:03.99 on RB-203A-26 
+06/03/2020 14:00:48.85 All tests of location completed: 3 passed, 1 advisory, 0 failed (of 111 total). 
+06/03/2020 14:10:04.56 All tests of location completed: 109 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for MARWANE IMZI (580468) at 06/03/2020 14:10:05.53 on RB-203A-26 
+13/03/2020 15:05:14.24 All tests of location completed: 4 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for MARWANE IMZI (580468) at 13/03/2020 15:05:15.08 on RB-203A-12 
+15/03/2020 19:52:15.06 All tests of location completed: 109 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for MARWANE IMZI (580468) at 15/03/2020 19:52:16.16 on RB-203A-12 
+16/03/2020 16:42:38.84 All tests of location completed: 3 passed, 1 advisory, 0 failed (of 111 total). 
+16/03/2020 16:48:57.03 All tests of location completed: 109 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for MARWANE IMZI (580468) at 16/03/2020 16:48:59.00 on RB-209A-09 
+17/03/2020 15:38:53.98 All tests of location completed: 109 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for MARWANE IMZI (580468) at 17/03/2020 15:38:56.72 on RB-203A-10 

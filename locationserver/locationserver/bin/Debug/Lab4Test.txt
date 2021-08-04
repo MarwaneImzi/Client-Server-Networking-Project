@@ -1,0 +1,22 @@
+05/03/2020  7:15:10.03 All tests completed: 7 passed, 3 advisory, 2 failed. 
+05/03/2020  7:19:20.52 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 5 advisory, 7 failed (of 168 total). 
+06/03/2020 14:31:35.56 All tests of whois.net.dcs.hull.ac.uk completed: 17 passed, 0 advisory, 1 failed (of 168 total). 
+06/03/2020 14:52:41.17 All tests of whois.net.dcs.hull.ac.uk completed: 17 passed, 0 advisory, 1 failed (of 168 total). 
+06/03/2020 16:15:24.31 All tests of whois.net.dcs.hull.ac.uk completed: 17 passed, 0 advisory, 1 failed (of 168 total). 
+10/03/2020 13:05:41.40 All tests of whois.net.dcs.hull.ac.uk completed: 17 passed, 0 advisory, 1 failed (of 168 total). 
+10/03/2020 13:10:46.64 All tests of whois.net.dcs.hull.ac.uk completed: 17 passed, 0 advisory, 1 failed (of 168 total). 
+12/03/2020 13:10:15.69 All tests of whois.net.dcs.hull.ac.uk completed: 141 passed, 25 advisory, 0 failed (of 168 total). 
+12/03/2020 14:30:33.84 All tests of whois.net.dcs.hull.ac.uk completed: 18 passed, 0 advisory, 0 failed (of 168 total). 
+Lab4Test can be signed off for MARWANE IMZI (580468) at 12/03/2020 14:30:34.88 on RB-203A-12 
+12/03/2020 14:42:47.07 All tests of whois.net.dcs.hull.ac.uk completed: 141 passed, 25 advisory, 0 failed (of 168 total). 
+12/03/2020 15:48:21.14 All tests of whois.net.dcs.hull.ac.uk completed: 143 passed, 23 advisory, 0 failed (of 168 total). 
+13/03/2020 15:21:50.42 All tests of whois.net.dcs.hull.ac.uk completed: 143 passed, 23 advisory, 0 failed (of 168 total). 
+13/03/2020 23:55:16.30 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 0 advisory, 0 failed (of 168 total). 
+Lab4Test can be signed off for  (Marwane) at 13/03/2020 23:55:27.53 on DESKTOP-N34K8UF 
+15/03/2020 17:04:23.70 All tests of whois.net.dcs.hull.ac.uk completed: 159 passed, 7 advisory, 0 failed (of 168 total). 
+16/03/2020 14:09:45.18 All tests of whois.net.dcs.hull.ac.uk completed: 8 passed, 3 advisory, 7 failed (of 168 total). 
+16/03/2020 14:22:11.23 All tests of whois.net.dcs.hull.ac.uk completed: 159 passed, 7 advisory, 0 failed (of 168 total). 
+17/03/2020 14:29:22.14 All tests of whois.net.dcs.hull.ac.uk completed: 17 passed, 1 advisory, 0 failed (of 168 total). 
+17/03/2020 15:55:14.73 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 1 advisory, 0 failed (of 168 total). 
+17/03/2020 17:19:40.58 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 0 advisory, 1 failed (of 168 total). 
+17/03/2020 17:34:58.88 All tests of whois.net.dcs.hull.ac.uk completed: 17 passed, 1 advisory, 0 failed (of 168 total). 
